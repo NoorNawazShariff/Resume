@@ -1,0 +1,34 @@
+.responsive
+{
+	width:100%;
+	height:auto;
+}
+
+img{
+	border:3px solid black;
+}
+
+footer{
+	margin:0px;
+	padding:30px;
+	background-color:gray;
+	color:white;
+}
+
+#image1{
+	background-color:pink;
+	padding:1%;
+	margin:1%;
+}
+
+#center_tilt{
+	text-align:center;
+	box-shadow: 10px 10px 5px gray;
+	background-color:#add8e6;
+	transform: rotatez(-3deg);
+}
+
+.container-fluid
+{
+	background-image:linear-gradient(to right top,red,orange);
+}
